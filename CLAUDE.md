@@ -35,4 +35,5 @@ Plain HTML, CSS and a little JavaScript. No build step. Hosted on Netlify, conne
 - After building, run the site locally, test phone and desktop, and report what you built, what you tested and every open question, before opening a pull request.
 
 ## Current state
-[What's done, what's next. Update this at the end of each session.]
+Design system: based on starter-paper, still named "Paper". Kept the burnt orange accent and Fraunces + Inter. Corners changed from square to slightly rounded (6px buttons, inputs and small elements; 8px cards), no shadows.
+Next: sync the new tokens into cris-website, then design the home page in Claude chat and save it as `prototypes/home.html`. Sample content (Linden & Hart) is still in place.

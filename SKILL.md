@@ -6,6 +6,7 @@ description: Use when designing or building any page, section or component for t
 # Paper design system
 
 The look: editorial, calm, confident, quiet luxury.
+Shape: slightly rounded. 6px on buttons, inputs, badges, the brand mark, card icons and bullets; 8px on cards. No shadows.
 Source of truth: `assets/tokens.css` (values) and `assets/components.css` (components). The storybook (`storybook.html`) shows every token and component.
 
 ## Hard rules
